@@ -1,0 +1,137 @@
+body {
+    background-color: darkblue;
+    font-family: Arial, sans-serif;
+}
+
+.img_prinsi {
+    border-radius: 10px;
+    border: solid;
+    border-color: chartreuse;
+    margin-left: 10px;
+    margin-top: 7px;
+    border-width: 3px;
+}
+
+.globo {
+    margin-left: 180px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    font-size: 13px;
+}
+
+.welcome {
+    margin-left: 10px;
+    margin-top: -140px
+}
+
+.Productos {
+    margin-top: px;
+    border: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 15px rgba(1000, 1000, 1500, 5);
+    background-color: dimgray;
+    height: 1400px;
+    margin-top: 140px;
+}
+
+.Productos_box {
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 5px;
+    border: none;
+    background-color: lightgreen;
+    font-size: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.text {
+    margin-inline-start: 10px;
+    text-align: center;
+}
+
+.prod1 {
+    border-radius: 5px;
+    border: none;
+    border-color: black;
+    border-style: circle;
+    background-color: gainsboro;
+    text-align: center;
+    height: 315px;
+    margin-left: 80px;
+    margin-inline-end: 80px;
+    margin-top: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.prod2 {
+    border-radius: 5px;
+    border: none;
+    border-color: black;
+    border-style: circle;
+    background-color: gainsboro;
+    text-align: center;
+    height: 310px;
+    margin-left: 80px;
+    margin-inline-end: 80px;
+    margin-top: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.prod3 {
+    border-radius: 5px;
+    border: none;
+    border-color: black;
+    border-style: circle;
+    background-color: gold;
+    text-align: center;
+    height: 300px;
+    margin-left: 80px;
+    margin-inline-end: 80px;
+    margin-top: 20px;
+    box-shadow: 0 4px 60px rgba(255, 215, 0, 20);;
+}
+
+.prod4 {
+    border-radius: 5px;
+    border: none;
+    border-color: black;
+    border-style: circle;
+    background-color: gainsboro;
+    text-align: center;
+    height: 300px;
+    margin-left: 80px;
+    margin-inline-end: 80px;
+    margin-top: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.img_prod1, .img_prod2, .img_prod3, .img_prod4 {
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.text_box_prod1, .text_box_prod2, .text_box_prod4{
+    border-radius: 5px;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: darkgray;
+}
+
+.text_box_prod3 {
+    border-radius: 5px;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: goldenrod;
+}    
+
+.prod1_descrip, .prod2_descrip, .prod4_descrip {
+    font-size: 15px;
+}
+.prod3_descrip {
+    color: gold;
+    font-size: 15px;
+}
+
+.precio1, .precio2, .precio3, .precio4{
+    
+}
